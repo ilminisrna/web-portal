@@ -52,4 +52,4 @@ Uraikan tahapan diatas melalui makalah pendek
 ## ✍️ Authors <a name = "authors"></a>
 
 - [@Dienova14](https://github.com/Dienova14) 
-- [@ilminisrna/github.com/ilminisrna)
+- [@ilminisrna](https://github.com/ilminisrna) 
